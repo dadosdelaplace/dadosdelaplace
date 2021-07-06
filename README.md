@@ -6,12 +6,11 @@
 
 
 <h1 style="font-weight:normal" align="center">
-  &nbsp;¡Bienvenido/a, aquí Javi (@DadosDeLaplace)! :wave: <br>
-  Welcome! I'm Javi (@DadosDeLaplace)! :wave:
+  &nbsp;¡Bienvenido/a, aquí Javi (@DadosDeLaplace)! Welcome! :wave:
 </h1>
 <div align="center">
 
-  ### ✨ Te dejo por aquí algunas de las redes donde puedes encontrarme (check some of the social networks where you can find me) :man_technologist:👀👇🏻
+  ### ✨ Algunas redes donde puedes encontrarme (social networks where you can follow me) :man_technologist:👀👇🏻
   
   <a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="70" height="70"></a>
   <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="70" height="70"></a>
