@@ -35,7 +35,7 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 - 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante)
 - 🎙 Intentando eso de la divulgación
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
-- 👨🏻‍🏫 Docente e investigador (con plaza y acreditación de Ayudante Doctor) en la Universidad de Oviedo
+- 👨🏻‍🏫 Docente e investigador (con plaza y acreditación de Ayudante Doctor) en la Universidad de Oviedo. [Material docente](https://github.com/dadosdelaplace/docencia)
 - 💻 Visualizando datos y programando en R
 
 ---
@@ -46,5 +46,5 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris)
 - 🎙 Trying to be a scicomm
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
-- 👨🏻‍🏫 Researcher and assitant professor at University of Oviedo
+- 👨🏻‍🏫 Researcher and assistant professor at University of Oviedo
 - 💻 Programming R and dataviz
