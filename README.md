@@ -33,7 +33,7 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 
 - 🧮 Matemático, nacido en 1989 en Carabanchel (Madrid), pasando por Bologna (Italia)
 - 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante)
-- 🎙 Intentando eso de la divulgación
+- 🎙 Intentando eso de la divulgación (ver [web](https://dadosdelaplace.com))
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
 - 👨🏻‍🏫 Docente e investigador (con plaza y acreditación de Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
 - 💻 Visualizando datos y programando en R
