@@ -16,24 +16,31 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a> --->
             
-<h1 style="font-weight:normal" align="center">
+<h1 style="font-weight:normal" align="left">
   &nbsp;¡Bienvenido/a, aquí Javi (@DadosDeLaplace)! Welcome! :wave:
 </h1>
-<div align="center">
+<div align="left">
 
+  ### ¿Cómo contribuir como mecenas?
+     
+  Si quieres contribuir para mantener el proyecto de divulgación estadística que realizo en las distintas redes puedes contribuir en la comunidad [Patreon](https://patreon.com/dadosdelaplace)
+            
+ <a href="https://patreon.com/dadosdelaplace"><img border="0" alt="Patreon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png" width="70" height="70"></a>      
+            
   ### ✨ Algunas redes donde puedes encontrarme (social networks where you can follow me) :man_technologist:👀👇🏻
   
-  <a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="70" height="70"></a>
-  <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="70" height="70"></a>
-  <a href="https://t.me/dadosdelaplace"><img border="0" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="70" height="70"></a>
-  <a href="mailto:alvarezljavier@uniovi.es"><img border="0" alt="Email" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="70" height="70"></a>
+  <a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="50" height="50"></a>
+  <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="50" height="50"></a>
+  <a href="https://t.me/dadosdelaplace"><img border="0" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="50" height="50"></a>
+  <a href="https://cartasdelaplace.com"><img border="0" alt="Newsletter" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="50" height="50"></a>     
 </div>
 
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 
-- 🧮 Matemático, nacido en 1989 en Carabanchel (Madrid), pasando por Bologna (Italia)
-- 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante)
-- 🎙 Intentando eso de la divulgación (ver [web](https://dadosdelaplace.com))
+- 🧮 Matemático, nacido en 1989 en Carabanchel (Madrid), pasando por Bologna (Italia).
+- 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante).
+- 🎙 Intentando eso de la divulgación (ver [WEB](https://dadosdelaplace.com)).
+- ✉️  Hablando de datos en una [NEWSLETTER](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
 - 👨🏻‍🏫 Docente e investigador (con plaza y acreditación de Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
 - 💻 Visualizando datos y programando en R
@@ -42,9 +49,9 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 
 It is a bit weird talking about oneself, but we shall pursue it:
 
-- 🧮 Mathematician, born in 1989 in Carabanchel (Madrid, Spain)
-- 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris)
-- 🎙 Trying to be a scicomm
+- 🧮 Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
+- 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris).
+- 🎙 Trying to be a scicomm ([WEB](https://dadosdelaplace.com)).
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
 - 👨🏻‍🏫 Researcher and assistant professor at Universidad Complutense (Madrid).
-- 💻 Programming R and dataviz
+- 💻 Programming R and dataviz.
