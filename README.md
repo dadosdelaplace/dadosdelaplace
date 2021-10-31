@@ -1,8 +1,9 @@
 <!--
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="800" height="250"></a>
--->
+
 
 
 [![License:
@@ -29,7 +30,7 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
 <div align="left">
             
 
-<div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="60" height="60" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div>
+<div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="50" height="50" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div>
 
 &nbsp;
             
