@@ -2,7 +2,7 @@
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-![](https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500)
+<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="800" height="250"></a>
 
 
 [![License:
@@ -16,24 +16,23 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a> --->
             
+<a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="40" height="40"></a>
+  <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="40" height="40"></a>
+  <a href="https://t.me/dadosdelaplace"><img border="0" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="40" height="40"></a>
+  <a href="https://cartasdelaplace.com"><img border="0" alt="Newsletter" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="40" height="40"></a>     
+  
 <h1 style="font-weight:normal" align="left">
-  &nbsp;¡Bienvenido/a, aquí Javi (@DadosDeLaplace)! Welcome! :wave:
+  &nbsp;Bienvenido/a, aquí Javi (@DadosDeLaplace) :wave:
 </h1>
-<div align="left">
 
-  ### ¿Cómo contribuir como mecenas?
-     
-  Si quieres contribuir para mantener el proyecto de divulgación estadística que realizo en las distintas redes puedes contribuir en la comunidad [Patreon](https://patreon.com/dadosdelaplace)
+</div>
+<div align="left">
+            
+           
+#### Puedes contribuir al proyecto de divulgación estadística pagando dos cafés ☕️ en la comunidad [Patreon](https://patreon.com/dadosdelaplace)
             
  <a href="https://patreon.com/dadosdelaplace"><img border="0" alt="Patreon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png" width="70" height="70"></a>      
-            
-  ### ✨ Algunas redes donde puedes encontrarme (social networks where you can follow me) :man_technologist:👀👇🏻
-  
-  <a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="50" height="50"></a>
-  <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="50" height="50"></a>
-  <a href="https://t.me/dadosdelaplace"><img border="0" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="50" height="50"></a>
-  <a href="https://cartasdelaplace.com"><img border="0" alt="Newsletter" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="50" height="50"></a>     
-</div>
+
 
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 
@@ -41,9 +40,9 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 - 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante).
 - 🎙 Intentando eso de la divulgación (ver [WEB](https://dadosdelaplace.com)).
 - ✉️  Hablando de datos en una [NEWSLETTER](https://cartasdelaplace.com).
-- 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
-- 👨🏻‍🏫 Docente e investigador (con plaza y acreditación de Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
-- 💻 Visualizando datos y programando en R
+- 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">Twitter</a>
+- 👨🏻‍🏫 Docente e investigador (Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
+- 💻 Visualizando datos y programando en R #dataviz #RStats
 
 ---
 
