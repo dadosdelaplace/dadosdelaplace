@@ -1,8 +1,8 @@
 <!--
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 <a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="800" height="250"></a>
+-->
 
 
 [![License:
@@ -22,7 +22,7 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
   <a href="https://cartasdelaplace.com"><img border="0" alt="Newsletter" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="30" height="30"></a>     
   
 <h1 style="font-weight:normal" align="left">
-  &nbsp;Bienvenido/a, aquí Javi (@DadosDeLaplace) :wave:
+  &nbsp;Bienvenido/a, aquí Javi (@DadosDeLaplace). Welcome! :wave:
 </h1>
 
 </div>
@@ -36,7 +36,7 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 
 - 🧮 Matemático, nacido en 1989 en Carabanchel (Madrid), pasando por Bologna (Italia).
-- 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante).
+- 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante). [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en)
 - 🎙 Intentando eso de la divulgación (ver [WEB](https://dadosdelaplace.com)).
 - ✉️  Hablando de datos en una [NEWSLETTER](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">Twitter</a>
@@ -48,7 +48,7 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 It is a bit weird talking about oneself, but we shall pursue it:
 
 - 🧮 Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
-- 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris).
+- 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris). [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en)
 - 🎙 Trying to be a scicomm ([WEB](https://dadosdelaplace.com)).
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
 - 👨🏻‍🏫 Researcher and assistant professor at Universidad Complutense (Madrid).
