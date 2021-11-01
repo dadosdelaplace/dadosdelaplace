@@ -2,7 +2,7 @@
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="800" height="250"></a>
+<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="680" height="200"></a>
 
 
 
@@ -42,7 +42,9 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 - ✉️  Hablando de datos en una [NEWSLETTER](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">Twitter</a>
 - 👨🏻‍🏫 Docente e investigador (Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
-- 💻 Visualizando datos y programando en R #dataviz #RStats
+- 💻 Visualizando datos y programando en R #dataviz #RStats.
+            
+[Página Github y CV](dadosdelaplace.github.io)
 
 ---
 
@@ -54,3 +56,5 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
 - 👨🏻‍🏫 Researcher and assistant professor at Universidad Complutense (Madrid).
 - 💻 Programming R and dataviz.
+            
+[Github pages and CV](dadosdelaplace.github.io)
