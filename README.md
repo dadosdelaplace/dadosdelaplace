@@ -4,12 +4,10 @@
 
 <a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="660" height="200"></a>
 
-
+<img src="https://komarev.com/ghpvc/?username=dadosdelaplace&label=Profile%20views&color=blue&style=plastic" alt="dadosdelaplace" />
 
 [![License:
 GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
-[![CRAN\_Status\_Badge](http://www.r-pkg.org/badges/version/icon)](https://cran.r-project.org/package=icons)
 <a href="https://github.com/dadosdelaplace/hilostwitter/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/dadosdelaplace/hilostwitter" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=dadosdelaplace"> <img src="https://img.shields.io/twitter/follow/dadosdelaplace?style=social&logo=twitter"
             alt="Sígueme en Twitter (follow on Twitter)"></a>
@@ -17,44 +15,53 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
         <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
             alt="chat on Discord"></a> --->
             
-<a href="https://twitter.com/dadosdelaplace"><img border="0" alt="Twitter" src="https://assets.dryicons.com/uploads/icon/svg/8385/c23f7ffc-ca8d-4246-8978-ce9f6d5bcc99.svg" width="30" height="30"></a>
-  <a href="https://instagram.com/javieralvarezliebana"><img border="0" alt="Instagram" src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo-3.png" width="30" height="30"></a>
-  <a href="https://t.me/dadosdelaplace"><img border="0" alt="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1024px-Telegram_2019_Logo.svg.png" width="30" height="30"></a>
-  <a href="https://cartasdelaplace.com"><img border="0" alt="Newsletter" src="https://assets.dryicons.com/uploads/icon/svg/8007/c804652c-fae4-43d7-b539-187d6a408254.svg" width="30" height="30"></a>     
-  
+
 <h1 style="font-weight:normal" align="left">
   &nbsp;Bienvenido/a, aquí Javi (@DadosDeLaplace). Welcome! :wave:
 </h1>
 
 </div>
+
+<p align="left">
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/Rlogo.png" alt="R Project" height="40" />   </a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40" /></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
+    <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
+    <a href="https://jekyllrb.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40" /></a>
+</p>
+
+
 <div align="left">
             
-
-<div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="50" height="50" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div>
+<div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="40" height="40" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div>
 
 &nbsp;
             
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
+      
 
-- 🧮 Matemático, nacido en 1989 en Carabanchel (Madrid), pasando por Bologna (Italia).
-- 📊 Doctor en Estadística (por la Universidad de Granada, Université Pierre et Marie Curie mediante). [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en)
-- 🎙 Intentando eso de la divulgación (ver [WEB](https://dadosdelaplace.com)).
-- ✉️  Hablando de datos en una [NEWSLETTER](https://cartasdelaplace.com).
-- 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049">Twitter</a>
-- 👨🏻‍🏫 Docente e investigador (Ayudante Doctor) en la Universidad Complutense de Madrid. [Material docente](https://github.com/dadosdelaplace/docencia)
-- 💻 Visualizando datos y programando en R #dataviz #RStats.
+- 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> como divulgador), matemático, nacido en 1989 en **Carabanchel** (Madrid), pasando por Bologna (Italia).
+- 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). Mis áreas de investigación se centran en **Estadística**, **Data Science**, **análisis de datos funcionales**, **series temporales** y **dataviz**.
+- 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en).
+- 👨🏻‍🏫 Docente e investigador, **profesor Ayudante Doctor** en la Universidad Complutense de Madrid. [**Material docente**](https://dadosdelaplace.github.io/teaching)
+- 🎙 Intentando eso de la **divulgación**. Ver [**web/blog**](https://dadosdelaplace.github.io).
+- ✉️  Hablando de datos en una [**NEWSLETTER**](https://cartasdelaplace.com).
+- 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
+- 💻 **Visualizando datos y programando en R** #dataviz #RStats. [**Ver cursos**](https://dadosdelaplace.github.io/courses)
             
-[Página Github y CV](dadosdelaplace.github.io)
+[**Página Github y CV**](https://dadosdelaplace.github.io)
 
 ---
 
 It is a bit weird talking about oneself, but we shall pursue it:
 
-- 🧮 Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
-- 📊 PhD in Statistics (University of Granada, with stages in Université Pierre et Marie Curie of Paris). [Google Scholar](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en)
-- 🎙 Trying to be a scicomm ([WEB](https://dadosdelaplace.com)).
-- 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049">#MatesEnDomingo</a>
-- 👨🏻‍🏫 Researcher and assistant professor at Universidad Complutense (Madrid).
-- 💻 Programming R and dataviz.
+
+- 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> as scicomm), Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
+- 📊 **PhD in Statistics** (University of Granada, with stages in Université Pierre et Marie Curie of Paris). My research can be found in [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). I am most skilled in **Statistics**, **Data Science**, **Functional Data Analysis**, **Time Series** and **Dataviz**.
+- 👨🏻‍🏫 Researcher and **Assistant Professor** at Universidad Complutense (Madrid). [**Teaching materials**](https://dadosdelaplace.github.io/teaching)
+- 🎙 Trying to be a scicomm. See [**web/blog**](https://dadosdelaplace.github.io).
+- ✉️  Talking about data. [**NEWSLETTER**](https://cartasdelaplace.com).
+- 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
+- 💻 **Programming R and dataviz** #dataviz #RStats. [**See courses**](https://dadosdelaplace.github.io/courses)
             
-[Github pages and CV](dadosdelaplace.github.io)
+[**Github pages and CV**](https://dadosdelaplace.github.io)
