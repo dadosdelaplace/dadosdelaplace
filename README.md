@@ -65,3 +65,12 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 💻 **Programming R and dataviz** #dataviz #RStats. [**See courses**](https://dadosdelaplace.github.io/courses)
             
 [**Github pages and CV**](https://dadosdelaplace.github.io)
+
+&nbsp;
+
+<h3 align="left">R packages</h3>
+            
+| Package | Release | Downloads |
+|:----------------:|:----------------:|:------:|
+| [_goffda_](https://github.com/dadosdelaplace/goffda) | [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) | ![Downloads](https://cranlogs.r-pkg.org/badges/goffda) | |
+                        
