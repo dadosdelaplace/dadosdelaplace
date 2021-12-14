@@ -4,7 +4,7 @@
 
 <a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="660" height="200"></a>
 
-<img src="https://komarev.com/ghpvc/?username=dadosdelaplace&label=Profile%20views&color=blue&style=plastic" alt="dadosdelaplace" />
+<img src="https://komarev.com/ghpvc/?username=dadosdelaplace&label=Profile%20views&color=blue&style=plastic" alt="dadosdelaplace">
 
 [![License:
 GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
@@ -33,13 +33,14 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
 
 <div align="left">
             
-<div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="40" height="40" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div>
+[🕸 **Web/blog personal y de divulgación estadística**](https://dadosdelaplace.github.io)
+            
+<!-- <div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="40" height="40" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div> --->
 
 &nbsp;
             
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
       
-
 - 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> como divulgador), matemático, nacido en 1989 en **Carabanchel** (Madrid), pasando por Bologna (Italia).
 - 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). Mis áreas de investigación se centran en **Estadística**, **Data Science**, **análisis de datos funcionales**, **series temporales** y **dataviz**.
 - 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en).
@@ -48,10 +49,12 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 - ✉️  Hablando de datos en una [**NEWSLETTER**](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
 - 💻 **Visualizando datos y programando en R** #dataviz #RStats. [**Ver cursos**](https://dadosdelaplace.github.io/courses)
-            
-[**Página Github y CV**](https://dadosdelaplace.github.io)
+
 
 ---
+            
+[🕸 **Web/blog**](https://dadosdelaplace.github.io)
+           
 
 It is a bit weird talking about oneself, but we shall pursue it:
 
@@ -64,7 +67,6 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
 - 💻 **Programming R and dataviz** #dataviz #RStats. [**See courses**](https://dadosdelaplace.github.io/courses)
             
-[**Github pages and CV**](https://dadosdelaplace.github.io)
 
 &nbsp;
 
