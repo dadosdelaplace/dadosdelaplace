@@ -41,11 +41,10 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
             
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
       
-- 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> como divulgador), matemático, nacido en 1989 en **Carabanchel** (Madrid), pasando por Bologna (Italia).
-- 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). Mis áreas de investigación se centran en **Estadística**, **Data Science**, **análisis de datos funcionales**, **series temporales** y **dataviz**.
-- 📊 **Doctor en Estadística** (por la Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en).
-- 👨🏻‍🏫 Docente e investigador, **profesor Ayudante Doctor** en la Universidad Complutense de Madrid. [**Material docente**](https://dadosdelaplace.github.io/teaching)
-- 🎙 Intentando eso de la **divulgación**. Ver [**web/blog**](https://dadosdelaplace.github.io).
+- 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> como divulgador), matemático, nacido en 1989 en **Carabanchel** (Madrid).
+- 📊 **Doctor en Estadística** (Universidad de Granada, Université Pierre et Marie Curie mediante). Puedes ver mi investigación en [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). Mis áreas de investigación se centran en **Estadística**, **Data Science**, **análisis de datos funcionales**, **series temporales**, **contrastes de bondad de ajuste** y **dataviz**.
+- 👨🏻‍🏫 Docente y **profesor Ayudante Doctor** en la Universidad Complutense de Madrid. [**Material docente**](https://dadosdelaplace.github.io/teaching)
+- 🎙 Intentando eso de la **divulgación**. Ver [**web/blog**](https://dadosdelaplace.github.io/blog-stats).
 - ✉️  Hablando de datos en una [**NEWSLETTER**](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
 - 💻 **Visualizando datos y programando en R** #dataviz #RStats. [**Ver cursos**](https://dadosdelaplace.github.io/courses)
@@ -62,7 +61,6 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> as scicomm), Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
 - 📊 **PhD in Statistics** (University of Granada, with stages in Université Pierre et Marie Curie of Paris). My research can be found in [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). I am most skilled in **Statistics**, **Data Science**, **Functional Data Analysis**, **Time Series** and **Dataviz**.
 - 👨🏻‍🏫 Researcher and **Assistant Professor** at Universidad Complutense (Madrid). [**Teaching materials**](https://dadosdelaplace.github.io/teaching)
-- 🎙 Trying to be a scicomm. See [**web/blog**](https://dadosdelaplace.github.io).
 - ✉️  Talking about data. [**NEWSLETTER**](https://cartasdelaplace.com).
 - 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
 - 💻 **Programming R and dataviz** #dataviz #RStats. [**See courses**](https://dadosdelaplace.github.io/courses)
