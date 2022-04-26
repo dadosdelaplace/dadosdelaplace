@@ -2,7 +2,7 @@
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="660" height="200"></a>
+<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="640" height="200"></a>
 
 <img src="https://komarev.com/ghpvc/?username=dadosdelaplace&label=Profile%20views&color=blue&style=plastic" alt="dadosdelaplace">
 
@@ -11,16 +11,7 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
 <a href="https://github.com/dadosdelaplace/hilostwitter/graphs/contributors" alt="Contributors"> <img src="https://img.shields.io/github/contributors/dadosdelaplace/hilostwitter" /></a>
 <a href="https://twitter.com/intent/follow?screen_name=dadosdelaplace"> <img src="https://img.shields.io/twitter/follow/dadosdelaplace?style=social&logo=twitter"
             alt="Sígueme en Twitter (follow on Twitter)"></a>
-<!-- <a href="https://discord.gg/HjJCwm5">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a> --->
             
-
-<h1 style="font-weight:normal" align="left">
-  &nbsp;Bienvenido/a, aquí Javi (@DadosDeLaplace). Welcome! :wave:
-</h1>
-
-</div>
 
 <p align="left">
   <a href="https://www.r-project.org/" target="_blank"><img src="https://www.r-project.org/Rlogo.png" alt="R Project" height="40" />   </a>
@@ -31,13 +22,18 @@ GPLv3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org
 </p>
 
 
+<h3 align="left">Paquetes de R / R packages</h3>
+            
+| Package | Release | Downloads |
+|:----------------:|:----------------:|:------:|
+| [_goffda_](https://github.com/dadosdelaplace/goffda) | [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) | ![Downloads](https://cranlogs.r-pkg.org/badges/goffda) | |
+
 <div align="left">
             
 [🕸 **Web/blog personal y de divulgación estadística**](https://dadosdelaplace.github.io)
             
 <!-- <div style="text-align: left;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Patreon_logomark.svg/1024px-Patreon_logomark.svg.png"  width="40" height="40" alt="Patreon">Puedes <b>contribuir al proyecto de divulgación estadística</b> pagando dos cafés ☕️ en la comunidad <a href="https://patreon.com/dadosdelaplace">Patreon</a></div> --->
 
-&nbsp;
             
 Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
       
@@ -47,6 +43,7 @@ Esto de presentarse a sí mismo es siempre un poco raro pero vamos a intentarlo:
 - 🎙 Intentando eso de la **divulgación**. Ver [**web/blog**](https://dadosdelaplace.github.io/blog-stats).
 - ✉️  Hablando de datos en una [**NEWSLETTER**](https://cartasdelaplace.com).
 - 🧶 Creando hilos y contando historias en <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
+- 📸 Divulgando en [**INSTAGRAM**](https://www.instagram.com/javieralvarezliebana/)            
 - 💻 **Visualizando datos y programando en R** #dataviz #RStats. [**Ver cursos**](https://dadosdelaplace.github.io/courses)
 
 
@@ -61,16 +58,11 @@ It is a bit weird talking about oneself, but we shall pursue it:
 - 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> as scicomm), Mathematician, born in 1989 in Carabanchel (Madrid, Spain).
 - 📊 **PhD in Statistics** (University of Granada, with stages in Université Pierre et Marie Curie of Paris). My research can be found in [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). I am most skilled in **Statistics**, **Data Science**, **Functional Data Analysis**, **Time Series** and **Dataviz**.
 - 👨🏻‍🏫 Researcher and **Assistant Professor** at Universidad Complutense (Madrid). [**Teaching materials**](https://dadosdelaplace.github.io/teaching)
-- ✉️  Talking about data. [**NEWSLETTER**](https://cartasdelaplace.com).
-- 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a>
+- ✉️ Talking about data. [**NEWSLETTER**](https://cartasdelaplace.com).
+- 🧶 Creating threads and telling stories in <a href="https://twitter.com/i/events/1398580673221378049"><b>Twitter</b></a> and [**Instagram**](https://www.instagram.com/javieralvarezliebana/)       
 - 💻 **Programming R and dataviz** #dataviz #RStats. [**See courses**](https://dadosdelaplace.github.io/courses)
             
 
 &nbsp;
 
-<h3 align="left">R packages</h3>
-            
-| Package | Release | Downloads |
-|:----------------:|:----------------:|:------:|
-| [_goffda_](https://github.com/dadosdelaplace/goffda) | [![](https://www.r-pkg.org/badges/version/goffda)](https://cran.r-project.org/package=goffda) | ![Downloads](https://cranlogs.r-pkg.org/badges/goffda) | |
                         
