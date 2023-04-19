@@ -2,8 +2,6 @@
 **dadosdelaplace/dadosdelaplace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<a href="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500"><img border="0" alt="Banner" src="https://pbs.twimg.com/profile_banners/238620126/1600271641/1500x500" width="640" height="200"></a>
-
 <img src="https://komarev.com/ghpvc/?username=dadosdelaplace&label=Profile%20views&color=blue&style=plastic" alt="dadosdelaplace">
 
 [![License:
