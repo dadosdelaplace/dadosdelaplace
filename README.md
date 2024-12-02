@@ -62,8 +62,6 @@
 
 It is a bit weird talking about oneself, but we shall pursue it:
 
-Hi! I am writing without sense: dasdasdaddasdasdasdasdasdasdsadsadasdasdas
-
 - 🧮 **Javier Álvarez Liébana** (<a href="https://twitter.com/dadosdelaplace"><b>@dadosdelaplace</b></a> as scicomm), Mathematician, born in 1989 in **Carabanchel** (Madrid, Spain).
 - 📊 **PhD in Statistics** (University of Granada, with stages in Université Pierre et Marie Curie of Paris). My research can be found in [**Google Scholar**](https://scholar.google.es/citations?user=Wb3lxFIAAAAJ&hl=en). I am most skilled in **Biostatistics**, **Polls forecsating**, **Data Science**, **Functional Data Analysis**, **Compositional Data**, **Goodness-of-fit tests**, **Time Series** and **Dataviz**.
 - 👨🏻‍🏫 Researcher and **Assistant Professor** at Universidad Complutense (Madrid). [**Teaching materials**](https://dadosdelaplace.github.io/teaching)
